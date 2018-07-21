@@ -1,0 +1,112 @@
+*{
+      background-color: #f2f2f2;
+      align-items: center;
+}
+.logo_modulos
+{
+    vertical-align: middle;  
+}
+.bodyhome
+{
+    background-image: url("images/background_home.jpg");
+    background-position: center -1.42857rem;
+    position: relative;
+    background-repeat: no-repeat;
+    height: 1024px;
+
+}
+.menu
+{
+  display: flex;
+  align: center;
+  padding: 2.14286rem 0.71429rem;
+  box-sizing: border-box;
+  color: #43525A;
+  font-size: 1.14286rem;
+}
+.contentmenu
+{
+  align-items: center;
+  flex-shrink: 0;
+  flex-grow: 0;
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.left_text
+{   
+     flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 25rem;
+    width: 100%;
+    margin: 15vh 5.71429rem 15vh 0;
+
+}
+.desktop
+{
+  position: inherit;
+  float: right;
+
+  
+  
+
+}
+#a{
+
+
+}
+.background_home
+{
+
+  position: absolute;
+  align-self: center;
+  float:inherit;
+  z-index: 1;
+
+}
+.shopping-cartmenu
+{
+      width: 1.125em;
+      overflow: visible;
+}
+.Configure_yours
+{
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    /*display: block;*/
+    background: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #28A5BE;
+    color: #fff;
+
+}
+.Learn_more
+{
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    padding: 0.71429rem 1.42857rem;
+    /*display: block;*/
+    background: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #2D2D2D;
+    color: #fff;
+}
+.textcenter
+{
+  box-sizing: border-box;
+    width: 100%;
+    max-width: 1320px;
+    padding: 0 1.42857rem;
+    margin: 0 auto;
+}
+#img
+{
+
+  hidden:none;
+}
